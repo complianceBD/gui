@@ -32,7 +32,7 @@ class Example(wx.Frame):
         sizer.Add(text1, pos=(0, 0), flag=wx.TOP|wx.LEFT|wx.BOTTOM,
             border=15)
 
-        icon = wx.StaticBitmap(panel, bitmap=wx.Bitmap('C:\\Users\\XBBNQVM\\Desktop\\bny.png'))
+        icon = wx.StaticBitmap(panel, bitmap=wx.Bitmap(''))
         sizer.Add(icon, pos=(0, 4), flag=wx.TOP|wx.RIGHT|wx.ALIGN_RIGHT,
             border=5)
 
