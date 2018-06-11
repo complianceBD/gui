@@ -1,0 +1,7 @@
+requires tia-bloomberg
+requires python 3.6
+requires pandas
+requires numpy
+requires wxpython
+requires BLPAPI
+Require Bloomberg Terminal
